@@ -1,0 +1,8 @@
+if (APR Risk of Mortality <= 2.5) and (APR Risk of Mortality > 1.5) then class: Minor (proba: 100.0%) | based on 7,899 samples
+
+if (APR Risk of Mortality > 2.5) then class: Moderate (proba: 100.0%) | based on 2,764 samples
+
+if (APR Risk of Mortality <= 2.5) and (APR Risk of Mortality <= 1.5) and (APR Risk of Mortality > 0.5) then class: Major (proba: 100.0%) | based on 1,942 samples
+
+if (APR Risk of Mortality <= 2.5) and (APR Risk of Mortality <= 1.5) and (APR Risk of Mortality <= 0.5) then class: Extreme (proba: 100.0%) | based on 658 samples
+

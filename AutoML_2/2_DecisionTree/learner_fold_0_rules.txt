@@ -1,0 +1,4 @@
+if (Total Charges > 221.625) then class: long (proba: 100.0%) | based on 16,801 samples
+
+if (Total Charges <= 221.625) then class: short (proba: 100.0%) | based on 15 samples
+
